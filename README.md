@@ -1,0 +1,1 @@
+This is a simple number guessing game using vanilla JavaScript
